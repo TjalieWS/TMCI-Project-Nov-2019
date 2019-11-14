@@ -2,7 +2,7 @@
 Repository for TMCI project November 2019. Project members: Caoimhe Martin, Jan Koetsier, Lily Voge and Tjalie Wichers Schreur
 
 ## Title
-Trying to leave the EU: why the UK parliament fails to reach deadlines.
+### Trying to leave the EU: why the UK parliament fails to reach deadlines.
 
 ## Abstract
 After the referendum in June 2016 it became apparent that the UK will leave the EU. However, this proved to be difficult resulting in long negotiations and failed deals (Brexit: All the…, 2019). There have been many deadlines that haven’t been met and the process keeps being extended, leaving the British and also the European population in much uncertainty. We would like to analyse for what reasons the UK parliament keeps denying deals and extending the deadline. Firstly, we would like to look at the frequency of brexit debates over a span of time to see whether brexit is being dealt with as extensively right before the deadline as throughout the rest of the year. Additionally, we would like to look at the context in which brexit is mentioned and whether these contexts also change as the pressure increases.
